@@ -1,0 +1,107 @@
+{
+  "main": {
+    "name": "Sangam Mishra",
+    "occupation": "WEB DEVELOPER",
+    "description": "",
+    "image": "profilepic.png",
+    "bio": "Hi there! I am Sangam Mishra! I wana be to become a successful professional in the field of Information Technology and to work in an innovate and competitive world. Seeking a challenging position, utilizing my abilities developed through my experience and education. To secure a job in the Designing industry where I can utilize my knowledge for the growth of the industry and improve myself also.  ",
+    "contactmessage": "Get in touch with me !",
+    "email": "smishrax201@gmail.com",
+    "phone": "+91 9695729831",
+    "address": {
+      "street": "Ram kishan nagar",
+      "city": "Kannauj",
+      "state": "UP",
+      "zip": "209722"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+     
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sangam-mishra-45363813a",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/im__sangam/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/passa00",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Jamia Millia Islamia",
+        "degree": "Master's Degree, Computer Science",
+        "graduated": "July 2022",
+        "description": "Graduated with First Class"
+      }
+    ],
+    "work": [
+      {
+        "company": "Nowhere",
+        "title": "Web Designer",
+        "years": "Nov 2019",
+        "description": "Work On more Website in the Lockdown Period (Unofficially) like Dabur , trivani group(Annual page)"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "vaccine-registration (Java)",
+        "category": "",
+        "image": "vaccine.png",
+        "url": "https://github.com/passa00/vaccine-reg"
+      },
+      {
+        "title": "ToDo List (React JS, CSS, HTML)",
+        "category": "",
+        "image": "todo.png",
+        "url": "https://passa00.github.io/ToDo_List/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sangam is absolutely good person, he pays attention to improve the aesthetics of the site as well as the functionality. Throughout the entire process he is responsive, and willing to work through issues as they arise. It’s obvious he takes tremendous pride in his work, and I wouldn’t hesitate to recommend or work with him again.",
+        "user": "Srijan Bhardwaj"
+      },
+      {
+        "text": "We have the fortune of working with Ian on a very regular basis. Every single project is done in a timely fashion and is delivered exactly as is outlined. Beyond that, his development skills and expertise make him an invaluable part of our process. We absolutely offer our highest possible recommendation.",
+        "user": "Shalu Mishra"
+      }
+    ]
+  }
+}
